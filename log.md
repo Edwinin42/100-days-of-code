@@ -11,11 +11,18 @@
 
 ### Day 2: September 29, 2019
 
-**Today's Progress** I Started CSS on freecodecamp.
+**Today's Progress** I Started CSS on freecodecamp. 
+
+FreeCodeCamp
+"You have completed 71 of 1409 coding challenges.
+
+You have built 0 out of 30 projects.
+
+You have earned 0 out of 6 certifications."
 
 **Thoughts** Second day! Now it is more than just a one of hour! My streak begins. CSS is pretty cool, I am starting to get a feel for what its like to write code, CSS is more rewarding/interesting for me than HTML.
 
-**Link(s) to work** Soon I will create and publish my own project.
+**Link(s) to work** "You have built 0 out of 30 projects". Soon I will create and publish my own project. 
 
 
 ### Day 3: September 30, 2019
